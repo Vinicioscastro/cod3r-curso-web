@@ -1,0 +1,22 @@
+body{
+    
+    background-color: aquamarine;
+}
+
+#centro{
+margin-top: 200px;
+width: 80%;
+height: 100vh;  
+background-color: white;
+margin: auto;
+
+}
+
+#meio{
+    margin-top: 50 px;
+    width: 80%;
+    height: 40px;
+    background-color: chartreuse;
+    margin: auto;
+    align-items: center;
+}
