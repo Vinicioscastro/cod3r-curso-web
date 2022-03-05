@@ -2,7 +2,7 @@ let valores = [9 , 8 , 7 , 75]
 
 console.log(valores[0], valores[4], valores[3])
 
-valores[4] = 5
+valores[4] = 7
 
 console.log(valores)
 
